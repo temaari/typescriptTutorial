@@ -1,0 +1,1 @@
+tsc helloWorld.ts && node helloWorld.js && rm helloWorld.js
